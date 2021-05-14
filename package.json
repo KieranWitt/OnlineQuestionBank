@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "tbc"
+    "url": "git+https://github.com/KieranWitt/OnlineQuestionBank.git"
   },
   "author": "Kieran Witt",
-  "license": "ISC"
+  "license": "See License in LICENSE"
 }
